@@ -6,9 +6,7 @@ A simpler version of brainfuck, readable but still hell.
 |-----------------|------------------------------------|-----------|
 | `inc N`         | Increment current cell by `N`      | `+`       |
 | `dec N`         | Decrement current cell by `N`      | `-`       |
-| `move_right`    | Move pointer right by 1            | `>`       |
 | `move_right_N`  | Move pointer right by `N`          | `>`       |
-| `move_left`     | Move pointer left by 1             | `<`       |
 | `move_left_N`   | Move pointer left by `N`           | `<`       |
 | `print`         | Print current cell as a character  | `.`       |
 | `input`         | Read one character into cell       | `,`       |
