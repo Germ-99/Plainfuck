@@ -15,6 +15,65 @@ A simpler version of brainfuck, readable but still hell.
 | `loop_start`    | Begin loop                         | `[`       |
 | `loop_end`      | End loop                           | `]`       |
 
+# 'Hello World!' example in Plainfuck
+```
+inc 10
+loop_start
+    move_right_1
+    inc 7
+    move_right_1
+    inc 10
+    move_right_1
+    inc 3
+    move_right_1
+    inc 1
+    move_left_4
+    dec 1
+loop_end
+
+move_right_1
+inc 2
+print
+
+move_right_1
+inc 1
+print
+
+inc 7
+print
+print
+
+inc 3
+print
+
+move_right_1
+inc 2
+print
+
+move_left_2
+inc 15
+print
+
+move_right_1
+print
+
+inc 3
+print
+
+dec 6
+print
+
+dec 8
+print
+
+move_right_1
+inc 1
+print
+
+move_right_1
+print
+```
+
 
 # Usage
 ## Windows
