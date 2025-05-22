@@ -1,3 +1,5 @@
+Again, if i'm not stupid this should just output 'Hello, World!'
+
 inc 10
 loop_start
     move_right_1
