@@ -1,0 +1,11 @@
+inc 80 print
+inc 28 print
+inc 13 print
+dec 8 print
+inc 6 print
+inc 15 print
+inc 7 print
+inc 6 print
+inc 3 print
+dec 6 print
+inc 1 print
