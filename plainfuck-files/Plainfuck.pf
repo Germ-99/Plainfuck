@@ -9,3 +9,5 @@ inc 6 print
 inc 3 print
 dec 6 print
 inc 1 print
+
+If i'm not a dumbass, this should output 'PLAINFUCK!'
